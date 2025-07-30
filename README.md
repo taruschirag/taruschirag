@@ -6,7 +6,7 @@ I'm a builder, researcher, and systems thinker exploring the edges of AI, probab
 - 🛠️ Built [an AI journalling platform](https://ai-therapist-seven.vercel.app/login) focused on context-aware journaling and reflective chat
 - 📚 Published research at **ICML 2025** in [TTODLer-FM ] on evaluating LLMs under noisy supervision
 - ⚙️ Working on tools that bring **reasoning under uncertainty** into real-world products
-- 💻 Strong interest in **quant systems, distributed infra, and AI x psychology**
+- 💻 Strong interest in **game theory, probability, distributed infra, and AI x psychology**
 
 ---
 
