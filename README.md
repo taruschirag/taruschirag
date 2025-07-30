@@ -29,7 +29,7 @@ I’m a CS senior with ML and backend engineering experience at Capital One and 
 ### 📬 Let's Connect
 
 - Twitter → [@taruschirag](https://x.com/taruschirag)
-- Personal site → [chiragjain.dev](https://taruschirag.github.io/) *(if applicable)*
+- Personal site → [chiragjain.dev](https://taruschirag.github.io/) 
 - Email → chiragcollege22@gmail.com
 
 ---
