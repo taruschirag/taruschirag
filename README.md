@@ -1,6 +1,6 @@
-# 👋 Hey, I'm Chirag Jain
+# Hey, I'm Chirag Jain
 
-I'm a builder, researcher, and systems thinker exploring the edges of AI, probability, and product engineering.
+I’m a CS senior with ML and backend engineering experience at Capital One and health tech startups, interested in infra and applied AI.
 
 - 🧠 Currently deep-diving into **probabilistic modeling**, algorithmic trading, and intelligent agents
 - 🛠️ Built [an AI journalling platform](https://ai-therapist-seven.vercel.app/login) focused on context-aware journaling and reflective chat
