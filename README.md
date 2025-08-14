@@ -4,7 +4,7 @@ I’m a CS senior with ML and backend engineering experience at Capital One and 
 
 - 🧠 Currently deep-diving into **probabilistic modeling**, algorithmic trading, and intelligent agents
 - 🛠️ Built [an AI journalling platform](https://ai-therapist-seven.vercel.app/login) focused on context-aware journaling and reflective chat
-- 📚 Published research at **ICML 2025** in [TTODLer-FM ] on evaluating LLMs under noisy supervision
+- 📚 Published research at **ICML 2025** in [TTODLer-FM ] 
 - ⚙️ Working on tools that bring **reasoning under uncertainty** into real-world products
 - 💻 Strong interest in **game theory, probability, distributed infra, and AI x psychology**
 
